@@ -6,4 +6,6 @@
 <br><br>
 <h3 align='center'><a href="https://tahahaha7.github.io/Greenhouse_Emissions_Algeria/">Full Report</a></h3>
 
+<br>
+
 ![Github](https://github.com/Tahahaha7/Greenhouse_Emissions_Algeria/blob/master/sahara_the_greatest_desert.jpg)
